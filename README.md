@@ -1,2 +1,2 @@
 # PMG-ERP
-ERP platform made for the purpose of making do consulting online.
+ERP platform made for the purpose of doing consulting online.
